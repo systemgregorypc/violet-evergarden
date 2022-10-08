@@ -61,6 +61,8 @@ matar ya no se justifica
 
 --Artemisia un ejemplo de liderazgo poder LIBERTAD una mujer fuerte que dio su vida por su tierra y mar.
 
+Violet Evergarden se volvió una entusiasta de las cartas, siempre se asegura de que sean entregadas a tiempo. 
+
 # Sistema operativo compatible
 
 --Esta herramienta actualmente solo es compatible con sitio web ( servidor )  usando plataforma de Unix, Linux, Windows , Mac  y NAVI
