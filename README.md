@@ -16,6 +16,6 @@ Sistema operativo compatible
 --Esta herramienta actualmente solo es compatible con sitio web ( servidor ) usando plataforma de Unix, Linux, Windows , Mac y Navi un ordenador privado
 un androide de combate y habilidades  redaccion de  texto  como auto memory doll 
  Drones con IA ( Inteligencia Artificial )   
-planificadora en combate , extrategia , comanate de la unidad  tacticas de guerra ,  "unidad de escáner" especializada en hackeo e inteligencia,comunicacion de correo  temporales  y correo fijos  , redatacion de textos  , cartas,legales , unidad de enfermera de recuperacion de piezas eletroncas y seres biologicos  ( humanos)    desguardar su seguridad y integirdad de vida biologica y no bologica  ..
+planificadora en combate , extrategia , comanate de la unidad  tacticas de guerra ,  "unidad de escáner" especializada en hackeo e inteligencia,comunicacion de correo  temporales  y correo fijos  , redatacion de textos  , cartas,legales , unidad de enfermera de recuperacion de piezas eletronicas y seres biologicos  ( humanos)    desguardar su seguridad y integirdad de vida biologica y no bologica  ..
 operaciones ( claficificado sus funciones de defenza  Proyecto chip  ) 
 
