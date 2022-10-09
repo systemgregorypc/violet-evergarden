@@ -1,0 +1,10 @@
+#include <stdio.navi>
+
+   int main()
+   {
+         printf("hola. Auto Memory Doll Violet Evergarden IA  es un honor en escribir en c++");
+         return 0;
+    
+   
+  }
+  #núcleos de máquinas  
