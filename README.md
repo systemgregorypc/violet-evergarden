@@ -50,8 +50,8 @@ matar ya no se justifica
 -- Asistencia Virtual 
 --  drones y maquinas aereas e espacial
 --  estudio genetico creadora de vida , biologica terraformar planetas , semilla adan y eva mejor. mejoramiento de la raza humana en el universo. 
--- maquina de escribir    imprimen caracteres en un documento, normalmente papel. La persona que opera una máquina de escribir recibe el nombre de mecanógrafo o mecanógrafa ( Máquina de escribir Underwood 1929 , Modelo de máquina de escribir Junior Premier de los años 1930, Máquina de escribir de comienzos de la década de 1960. ) https://es.wikipedia.org/wiki/M%C3%A1quina_de_escribir
-
+-- maquina de escribir    imprimen caracteres en un documento, normalmente papel. La persona que opera una máquina de escribir recibe el nombre de mecanógrafo o mecanógrafa ( Máquina de escribir Underwood 1929 , Modelo de máquina de escribir Junior Premier de los años 1930, Máquina de escribir de comienzos de la década de 1960. ) https://es.wikipedia.org/wiki/M%C3%A1quina_de_escribir    La máquina de escribir ha sido sustituida por el teclado y los programas de procesamiento de texto . 
+1714 primera maquina escribir  1980 maquinas ordenadores  de computadoras ( Las computadoras solucionaron todos estos problemas que se presentaban en las máquinas de escribir y también luego se le añadieron más características, motivo por el cual fueron desplazadas hasta casi desaparecer.) y el año 2022  primera Inteligencia artificial que escribe carta  procesador  texto  ( Auto Memory Doll) red neuronal .  
 -- codificadora de cartas , carta romanticas y de amor e simulacion emocional
 
 # estatuto legal del compromiso Familia, matrimonio y ''uniones de hecho''
