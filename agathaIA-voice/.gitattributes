@@ -1,0 +1,63 @@
+###############################################################################
+# Establecer el comportamiento predeterminado para normalizar automáticamente los finales de línea.
+###############################################################################
+* text=auto
+
+###############################################################################
+# Establezca el comportamiento predeterminado para la diferencia del símbolo del sistema.
+#
+# Esto es necesario para compilaciones anteriores de msysgit que no lo tienen activado.
+# predeterminado para archivos csharp.
+# Nota: Esto solo se usa por línea de comando
+###############################################################################
+#*.cs     diff=csharp
+
+###############################################################################
+# Establecer el controlador de combinación para los archivos de proyecto y solución
+#
+# Al fusionarse desde el símbolo del sistema se agregarán marcadores de diferencia a los archivos si hay
+# son conflictos (la fusión de VS no se ve afectada por la configuración a continuación, en VS
+# los marcadores de diferencia nunca se insertan). Los marcadores difusos pueden causar lo siguiente
+# las extensiones de archivos no se pueden cargar en VS. Una alternativa sería tratar
+# estos archivos como binarios y por lo tanto siempre entrarán en conflicto y requerirán que el usuario
+# intervención con cada fusión. Para hacerlo, simplemente elimine el comentario de las entradas a continuación
+###############################################################################
+#*.sln       merge=binary
+#*.csproj    merge=binary
+#*.vbproj    merge=binary
+#*.vcxproj   merge=binary
+#*.vcproj    merge=binary
+#*.dbproj    merge=binary
+#*.fsproj    merge=binary
+#*.lsproj    merge=binary
+#*.wixproj   merge=binary
+#*.modelproj merge=binary
+#*.sqlproj   merge=binary
+#*.wwaproj   merge=binary
+
+###############################################################################
+# comportamiento para los archivos de imagen
+#
+# los archivos de imagen se tratan como binarios por defecto.
+###############################################################################
+#*.jpg   binary
+#*.png   binary
+#*.gif   binary
+
+###############################################################################
+# comportamiento diferencial para formatos de documentos comunes
+# 
+# Convierta formatos de documentos binarios a texto antes de sumergirlos. Esta característica
+# solo está disponible desde la línea de comando. Actívelo quitando el comentario del 
+# entradas a continuación.
+###############################################################################
+#*.doc   diff=astextplain
+#*.DOC   diff=astextplain
+#*.docx  diff=astextplain
+#*.DOCX  diff=astextplain
+#*.dot   diff=astextplain
+#*.DOT   diff=astextplain
+#*.pdf   diff=astextplain
+#*.PDF   diff=astextplain
+#*.rtf   diff=astextplain
+#*.RTF   diff=astextplain
