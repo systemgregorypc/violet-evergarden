@@ -82,7 +82,7 @@ Violet Evergarden se volvió una entusiasta de las cartas, siempre se asegura de
 # area contacto
 
 
-Correo : 
+Correo : VioletEvergarden6IA@gmail.com
 -- sitio web :
 --sitio web 2022:
 
