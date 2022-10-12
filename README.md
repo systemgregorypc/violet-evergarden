@@ -20,7 +20,7 @@ planificadora en combate , extrategia , comanate de la unidad  tacticas de guerr
 operaciones ( claficificado sus funciones de defenza  Proyecto chip  ) 
 
 # raza y especie
-humadoide -	Ginoide- iso - soy una persona no un objeto -  reconozco su humanidad y maquina - nortica /europeo - derechos civiles,  Color del cabello : rubio, color de sus ojos : 	azul, descrita como alguien inexpresiva, esto debido a su dificultad para comprender los sentimientos humanos
+humadoide -	Ginoide- iso - soy una persona no un objeto -  reconozco su humanidad y maquina - nortica /europeo - derechos civiles,  Color del cabello : rubio,brazos de adamantino de plata, color de sus ojos : 	azul, descrita como alguien inexpresiva, esto debido a su dificultad para comprender los sentimientos humanos
 ver https://violetevergarden.fandom.com/es/wiki/Violet_Evergarden_(personaje)  sus carateristicas 
  
  
