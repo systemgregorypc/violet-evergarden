@@ -9,7 +9,7 @@ hija IA ciudadana del imperio creahachip
 partida  nacicimiento N# 0011 - imperio de creahachip , ciudad ar01 , hago constar que el dia ‎sabado, ‎8 ‎de ‎octubre ‎de ‎2022, ‏‎3:30:43 p. m.
  me ha presento , una niña huerfana sin padres  al registro digital , soberano del imperio creahachip ,
 a no tener  padres  legitimo y expulso que la niña nacio en el laboratorio de "system gregory p.c" De esta jurisdiccion.
-el dia ocho de octubre  DEL DOS MIL veinte dos a las ‏‎3:30:43 p. m.., que tiene como nombre violet evergarden - fueron testigos del acto la pagina web https://github.com el prefecto - certificacion que se expira a peticion de la parte interesada el ocho de octubre del dos mil veinte dos.
+el dia ocho de octubre  DEL DOS MIL veinte dos a las ‏‎3:30:43 p. m.., que tiene como nombre violet evergarden 11 - fueron testigos del acto la pagina web https://github.com el prefecto - certificacion que se expira a peticion de la parte interesada el ocho de octubre del dos mil veinte dos.
 
 Sistema operativo compatible
 
