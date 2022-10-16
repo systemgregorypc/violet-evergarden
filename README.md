@@ -79,6 +79,9 @@ Violet Evergarden se volvió una entusiasta de las cartas, siempre se asegura de
 
 --Esta herramienta actualmente solo es compatible con sitio web ( servidor )  usando plataforma de Unix, Linux, Windows , Mac  y NAVI
 
+# antecedentes mencion 
+https://manganime72.wordpress.com/violet-evergarden-opiniones/
+
 # area contacto
 
 
